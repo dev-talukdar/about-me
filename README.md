@@ -9,3 +9,8 @@ My goal is to continue improving my skills and knowledge as a web developer, and
 When I'm not coding, I enjoy reading about new web technologies, playing video games, and spending time with my family and friends.
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-talukdar) or [Facebook](https://www.facebook.com/talukdermuhammad13) to connect and chat about web development or anything else! 
+
+
+
+💻 Tech Stack:
+C JavaScript Heroku Netlify Firebase AWS Vercel JWT jQuery Next JS NodeJS React React Redux Express.js NPM MUI Bootstrap TailwindCSS MongoDB MySQL Adobe Dreamweaver Figma Canva Adobe XD NumPy Postman Docker Trello 
