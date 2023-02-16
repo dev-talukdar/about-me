@@ -13,4 +13,4 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammad-
 
 
 💻 Tech Stack:
-C JavaScript Heroku Netlify Firebase AWS Vercel JWT jQuery Next JS NodeJS React React Redux Express.js NPM MUI Bootstrap TailwindCSS MongoDB MySQL Adobe Dreamweaver Figma Canva Adobe XD NumPy Postman Docker Trello 
+C JavaScript 🌐 Heroku Netlify Firebase AWS Vercel JWT jQuery Next JS NodeJS React React Redux Express.js NPM MUI Bootstrap TailwindCSS MongoDB MySQL Adobe Dreamweaver Figma Canva Adobe XD NumPy Postman Docker Trello 
