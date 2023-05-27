@@ -14,6 +14,15 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammad-
 
 💻 Tech Stack:
 
-
-JavaScript: 🌐 Heroku: 🚀 Netlify: 🕸️ Firebase: 🔥 AWS: ☁️ Vercel: 🦄 jQuery: 💡 Next JS: ⏭️ NodeJS: 🟢 React: ⚛️ Express.js: 🚂🔌 NPM: 📦 Bootstrap: 🥾 TailwindCSS: 🎨🌪️ MongoDB: 🍃💾 MySQL: 🐬💾 Adobe Dreamweaver: 💭🌙 Figma: 🎨🖥️ Canva: 🎨🎨 Adobe XD: 🎨🖌️ NumPy: 🔢🧮 Postman: 📮👨‍💻 Docker: 🐳📦 Trello: 🗒️📌
-
+Bootstrap
+TailwindCSS
+JavaScript
+React
+Express.js
+Firebase
+Netlify
+Vercel
+NPM
+NodeJS
+Next JS
+MongoDB 
