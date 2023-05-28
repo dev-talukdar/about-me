@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Talukdar</h1>
 <h3 align="center">A passionate Full Stack web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-talukdar&label=Profile%20views&color=0e75b6&style=flat" alt="dev-talukdar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-talukdar&label=Profile%20views&color=0e75b6&style=flat" alt="dev-talukdar" /> </p>
 <br />
-<div className="flex">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-talukdar&" alt="dev-talukdar" /></p>
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-talukdar&show_icons=true&locale=en" alt="dev-talukdar" /></p>
-</div>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-talukdar&" alt="dev-talukdar" /></p>
+ 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-talukdar&show_icons=true&locale=en" alt="dev-talukdar" /></p>
+ 
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-talukdar&show_icons=true&locale=en&layout=compact" alt="dev-talukdar" /></p>
 <br />
