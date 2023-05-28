@@ -6,12 +6,8 @@
  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-talukdar&" alt="dev-talukdar" /></p>
  
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-talukdar&show_icons=true&locale=en" alt="dev-talukdar" /></p>
- 
-<br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-talukdar&show_icons=true&locale=en&layout=compact" alt="dev-talukdar" /></p>
-<br />
-
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-talukdar&show_icons=true&locale=en" alt="dev-talukdar" /></p> 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-talukdar&show_icons=true&locale=en&layout=compact" alt="dev-talukdar" /></p>  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-talukdar" alt="dev-talukdar" /></a> </p>  
 
 <h3 align="center">Languages and Tools:</h3>
