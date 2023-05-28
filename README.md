@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-talukdar" alt="dev-talukdar" /></a> </p>
 
-- 💬 Ask me about **Bootstrap<br />
+- 💬 Ask me about any of project releted skill below:
+- Bootstrap<br />
 - Tailwind<br />
 - JavaScript<br />
 - React<br />
 - Firebase<br />
--  MongoDB<br />
-- ,**
+-  MongoDB<br /> 
 
 - 📫 How to reach me **dev.talukdaar@gmail.com**
 
