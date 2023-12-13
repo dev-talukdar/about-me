@@ -4,11 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-talukdar&label=Profile%20views&color=0e75b6&style=flat" alt="dev-talukdar" /> </p>
 <br /> 
 
-<h3 align="center">Languages and Tools:</h3>
  
- 
- 
-<br />
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
